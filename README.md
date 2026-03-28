@@ -9,7 +9,7 @@ a descobrir ainda
 ## 🚀 Como usar
 
 ```bash
-git clone https://github.com/seu-usuario/Estrutura-de-Dados.git
+git clone https://github.com/sammsouzaa/Estrutura-de-Dados.git
 cd Estrutura-de-Dados
 ```
 
