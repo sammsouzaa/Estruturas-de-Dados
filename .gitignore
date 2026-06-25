@@ -1,0 +1,14 @@
+# Arquivos objeto
+*.o
+*.obj
+
+# Binários executáveis
+*.exe
+*.out
+*.app
+programa
+
+# Pastas de IDE ou SO
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,37 @@
+Universidade Estadual do Oeste do Paraná
+Campus Cascavel
+Centro de Ciências Exatas e Tecnológicas
+Curso de Bacharelado em Ciência da Computação
+SIMULADO
+Unidade Curricular: Estruturas de Dados (2026)
+Professor: Leonardo Medeiros
+VALOR: máximo de 100 PONTOS
+NOME: ________________________________________________________________________
+1. Escreva em C++ a definição de uma classe que represente operações matemáticas. Esta classe
+deve possuir os seguintes atributos e métodos: (20 PONTOS)
+•
+•
+
+Atributos privados
+◦ Primeiro operando
+◦ Segundo operando
+Métodos públicos:
+◦ Multiplicação
+◦ Construtor
+
+2. Escreva em C++ as implementações do método multiplicação através de operação aritmética e
+do método construtor da classe definida na primeira questão. (20 PONTOS)
+3. Escreva um programa em C++ que use a classe definida na primeira questão para criar um
+objeto e realizar uma operação através do método multiplicação. (20 PONTOS)
+4. Escreva em C++ a definição de uma classe que represente operações matemáticas através da
+herança da classe definida na primeira questão com a inclusão de um método público de adição.
+(10 PONTOS)
+5. Escreva um programa em C++ que use a classe definida na quarta questão para criar um objeto e
+realizar uma operação através do método adição. (10 PONTOS)
+6. Reescreva em C++ a definição da classe da quarta questão com a inclusão de uma redefinição
+do método público de multiplicação. (10 PONTOS)
+7. Escreva em C++ uma implementação do método multiplicação redefinido na sexta questão que
+calcule o resultado através de método público de adição, e não através de operação aritmética.
+(10 PONTOS)
+
+
